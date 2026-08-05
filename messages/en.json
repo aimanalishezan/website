@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "projects": "Projects",
+    "contact": "Contact",
+    "switchTo": "বাংলা"
+  },
+  "home": {
+    "featuredHeading": "Featured Projects",
+    "featuredSub": "Recent and notable work",
+    "viewAll": "View All Projects",
+    "aboutTeaser": "We design in the language of context, climate and culture — every site carries its own story, and we simply try to listen and respond.",
+    "readMore": "Read More",
+    "contactHeading": "Have a project in mind?",
+    "contactSub": "Let's talk.",
+    "contactCta": "Get in Touch"
+  },
+  "about": {
+    "heading": "About Us",
+    "philosophyHeading": "Practice, Process & Product"
+  },
+  "projects": {
+    "heading": "Projects",
+    "sub": "A selected collection of architecture and interior design work",
+    "filterAll": "All",
+    "year": "Year",
+    "location": "Location",
+    "landArea": "Land Area",
+    "builtArea": "Built Area",
+    "status": "Status",
+    "backToProjects": "Back to Projects"
+  },
+  "contact": {
+    "heading": "Contact",
+    "sub": "Get in touch to discuss your project",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "formName": "Your Name",
+    "formEmail": "Email Address",
+    "formMessage": "Your Message",
+    "formSubmit": "Send Message",
+    "formSuccess": "Thank you! Your message has been sent."
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}
